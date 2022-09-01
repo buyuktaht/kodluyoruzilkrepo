@@ -8,8 +8,10 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ![github resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
-#Installation
+# Installation
 
 ---------------------------------------------
 
-Öncelikle projeyi klonlayın ()
+Öncelikle projeyi klonlayın (Buraya sizin reponuzdan aldığınız link gelecek)
+
+
