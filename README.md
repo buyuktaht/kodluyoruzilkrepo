@@ -23,3 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+# Patika Link
+
+[Patika Profilime Girmek İçin Tıklayınız.](https://github.com/alpersevincler/kodluyoruzilkrepo.git)
