@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Patika Link
 
-[Patika Profilime Girmek İçin Tıklayınız.](https://github.com/alpersevincler/kodluyoruzilkrepo.git)
+[Patika Profilime Girmek İçin Tıklayınız.](https://app.patika.dev/buyuktaht)
